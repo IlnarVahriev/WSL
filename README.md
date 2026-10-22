@@ -18,4 +18,6 @@
 
 ## 3. Установка СУБД PostgreSQL
 Установлен сервер PostgreSQL. Проверен статус кластера.
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/2ee729c6-8e7e-41fc-bc53-c41e928c082a" />
+
 <img width="974" height="110" alt="image" src="https://github.com/user-attachments/assets/f69a2c31-e6ca-483c-96b8-8f26313186b9" />
